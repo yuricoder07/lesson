@@ -1,0 +1,53 @@
+{
+  
+
+  
+  
+
+  
+      "page1": {
+          "title": "CSP Notes",
+          "content": "What i’ve learned so far: . I learned how to use fastpages to create websites/posts. . . Notes: . Print: Function used to output a string into a terminal Def: Used to create functions that can do anything import: Used to import a variety of python libraries . .",
+          "url": "https://yuricoder07.github.io/lesson/notes/",
+          "relUrl": "/notes/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page11": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "https://yuricoder07.github.io/lesson/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}
